@@ -1,0 +1,13 @@
+package com.camel.example.tutorial.tutorialspring;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class TutorialSpringApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(TutorialSpringApplication.class, args);
+	}
+
+}

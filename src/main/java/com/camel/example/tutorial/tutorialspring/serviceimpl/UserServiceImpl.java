@@ -1,10 +1,13 @@
-package com.camel.example.tutorial.tutorialspring;
+package com.camel.example.tutorial.tutorialspring.serviceimpl;
 
 import java.util.Collection;
 import java.util.Map;
 import java.util.TreeMap;
 
 import org.springframework.stereotype.Service;
+
+import com.camel.example.tutorial.tutorialspring.model.User;
+import com.camel.example.tutorial.tutorialspring.service.UserService;
 
 @Service("userService")
 public class UserServiceImpl implements UserService {

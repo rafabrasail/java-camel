@@ -1,4 +1,4 @@
-package com.camel.example.tutorial.tutorialspring;
+package com.camel.example.tutorial.tutorialspring.model;
 
 import org.apache.commons.lang3.builder.ToStringBuilder;
 

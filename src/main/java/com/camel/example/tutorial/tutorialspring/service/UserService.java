@@ -1,6 +1,8 @@
-package com.camel.example.tutorial.tutorialspring;
+package com.camel.example.tutorial.tutorialspring.service;
 
 import java.util.Collection;
+
+import com.camel.example.tutorial.tutorialspring.model.User;
 
 public interface UserService {
 
